@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Семён Богданов](https://up.htmlacademy.ru/javascript/20/user/1394959).
+* Студент: [Семён Богданов].
 * Наставник: `Андрей`.
 
 ---
