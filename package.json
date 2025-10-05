@@ -1,5 +1,6 @@
 {
   "name": "keksobooking",
+  "author": "Semen Bogdanov <webdevelopments@yandex.ru>",
   "version": "19.0.0",
   "private": true,
   "description": "Личный проект «Кексобукинг» от HTML Academy",
